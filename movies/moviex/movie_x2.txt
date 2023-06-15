@@ -1,0 +1,8 @@
+this file contains all you need to know about movie x2
+
+Title: Spiderman no way home
+Genre: Sci-fi, Action, Adventure
+duration: 2hrs 51mins
+ratings: *******
+
+Enjoy!!!

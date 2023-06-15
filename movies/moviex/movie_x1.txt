@@ -1,0 +1,9 @@
+This file contains all you need to know about movie x1
+
+Title: Fast and furious 10
+Genre: Action, Adventure
+Duration: 02:00:00
+rating: *****
+
+
+enjoy!!!

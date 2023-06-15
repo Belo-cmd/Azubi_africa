@@ -1,0 +1,8 @@
+this file contains all you need to know about movie y1
+
+Title: Star wars
+Genre: Sci-fi, adventure, action
+duration: 2hrs 59mins
+ratings: *****
+
+Hope you enjoy the movie
